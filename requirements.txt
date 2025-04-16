@@ -1,0 +1,16 @@
+torch>=1.7
+torchvision>=0.8
+opencv-python
+numpy
+filterpy
+scikit-learn
+scipy
+lap
+pillow
+PyYAML
+tqdm
+matplotlib
+seaborn
+deep_sort_realtime==1.3.0
+ultralytics
+
